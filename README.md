@@ -1,1 +1,1 @@
-# learnify-elearning
+This is an e-learning web application built with Laravel 10 and MySQL 8. The app allows authors to create and manage online courses, add pages (lessons) to each course, and play through the course content with navigation. It features user authentication, intuitive UI
